@@ -1,6 +1,6 @@
 <div align="center">
-<img height=100 src="../profile/assets/logo-dark.png#gh-dark-mode-only">
-<img height=100 src="../profile/assets/logo-light.png#gh-light-mode-only">
+<img height=100 src="https://github.com/AQW-Godot/.github/blob/main/profile/assets/logo-dark.png#gh-dark-mode-only">
+<img height=100 src="https://github.com/AQW-Godot/.github/blob/main/profile/assets/logo-light.png#gh-light-mode-only">
 </div>
 
 ## Welcome to the Community!
